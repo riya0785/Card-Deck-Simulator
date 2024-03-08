@@ -7,7 +7,7 @@ This Java program simulates a deck of playing cards and provides various operati
 Riya Shukla
 
 ## How to Run??
-The program is divided into three files name Deck.java , Card.java and Main.java , for which the code is provided in the code section.
+The program is divided into three files name Deck.java , Card.java and Main.java , for which the files are provided for access.
 
 1. Ensure you have Java installed on your machine.
 2. Compile the program using a Java compiler. For example:
